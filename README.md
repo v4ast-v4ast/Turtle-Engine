@@ -19,4 +19,7 @@ Turtle Engine - Форк для популярного модуля на Python 
 
 На этом все. Скопировать версии:
 
-Turtle Engine: https://learn.algoritmika.org/student-profile?filter=projects&category=new&projectId=56288805 (команда в описании)
+Turtle Engine: https://learn.algoritmika.org/student-profile?filter=projects&category=new&projectId=56288805
+(команда в описании)
+
+P.s: проект имеет открытый код, и ты можешь скачать его себе, чтоы улучшить.
