@@ -22,4 +22,4 @@ Turtle Engine - Форк для популярного модуля на Python 
 Turtle Engine: https://learn.algoritmika.org/student-profile?filter=projects&category=new&projectId=56288805
 (команда в описании)
 
-P.s: проект имеет открытый код, и ты можешь скачать его себе, чтоы улучшить.
+P.s: проект имеет открытый код, и ты можешь скачать его себе чтобы улучшить.
